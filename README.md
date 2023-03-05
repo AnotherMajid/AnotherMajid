@@ -5,7 +5,7 @@
    
 ### A Software Developer & Hardware designer
 
-<img align="right" alt="GIF" src="code.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="code.gif" width="400" height="240" />
 
  - 🔬 I'm interested about photonics & Quantom technologies.
 
