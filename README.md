@@ -2,15 +2,15 @@
 
 ### A Software Developer & Hardware designer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="40" height="280" />
 
-- 🔭 I'm currently working on PCB designs for Embedded systems.
-- 
-- 💻 I'm currently Working on Software Developing for Desktop & Mobile.
-- 
-- 💬 Ask me about Electronics and RF Designs.
-- 
-- 💬 Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
+ 🔭 I'm currently working on PCB designs for Embedded systems.
+ 
+ 💻 I'm currently Working on Software Developing for Desktop & Mobile.
+ 
+ 💬 Ask me about Electronics and RF Designs.
+ 
+ 💬 Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
 
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
