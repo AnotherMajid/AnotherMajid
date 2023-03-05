@@ -1,5 +1,8 @@
 ### Hi there, It's Majid👋
 
+### A Software Developer & Hardware designer
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
