@@ -12,6 +12,16 @@
  
  - 💬 Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
 
+
+
+
+<h3 align="center">Technologies & Languages I've worked with</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
+
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
