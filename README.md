@@ -15,7 +15,11 @@
  
  - 💬 Ask me about Electronics & RF Designs.
  
- - 💬 and Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
+ - 💬 and also Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
+ 
+ - 📫 How to reach me: you can find my Tweeter and LinkedIn in my GitHub profile.
+
+ - 😄 Pronouns: He/him
 
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
