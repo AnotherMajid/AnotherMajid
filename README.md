@@ -17,7 +17,7 @@
  
  - 💬 and also Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
  
- - 📫 How to reach me: you can find my Tweeter and LinkedIn in my GitHub profile.
+ - 📫 How to reach me: you can find my email in my GitHub profile.
 
  - 😄 Pronouns: He/him
 
