@@ -19,8 +19,6 @@
  
  - 📫 How to reach me: you can find my email in my GitHub profile.
 
- - 😄 Pronouns: He/him
-
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
