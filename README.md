@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="480" height="300" />
 
- - 🔬 I'm interested about photonics & Quantom technologies.
+ - 🔬 I'm interested about photonics & Quantum technologies.
 
  - 🔭 I'm working on PCB design for Embedded systems.
  
