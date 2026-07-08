@@ -7,16 +7,12 @@
 
 <img align="right" alt="GIF" src="code.gif" width="480" height="300" />
 
- - 🔬 I'm interested about photonics & Quantum technologies.
+ - 🔬 I'm interested about RF, photonics & Quantum technologies.
 
  - 🔭 I'm working on PCB design for Embedded systems.
  
  - 💻 and also I'm Working on Software Developing for Desktop & Mobile.
- 
- - 💬 Ask me about Electronics & RF Designs.
- 
- - 💬 and also Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
- 
+  
  - 📫 How to reach me: you can find my email in my GitHub profile.
 
 <!--
