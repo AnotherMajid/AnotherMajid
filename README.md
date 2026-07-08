@@ -10,9 +10,9 @@
 
 - 💻 and also I'm Working on Software Developing for Desktop & Mobile.
   
--  - 💬 Ask me about Electronics & RF Designs.
+- 💬 Ask me about Electronics & RF Designs.
  
- - 💬 and also Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
+- 💬 and also Ask me about C/C++, Matlab, Python, Javascript, Qt & QML.
    
 - 📫 How to reach me: you can find my email in my GitHub profile.
 <!--
