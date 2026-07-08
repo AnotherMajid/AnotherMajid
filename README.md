@@ -1,14 +1,20 @@
-### Hi there, I'm Majid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+uptimize this  gif for this screen
+### Hi there, It's <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Majid 
 
-<img align="right" src="code.gif" alt="Coding GIF" width="400" height="auto" />
+ 
+  
+   
+### A Software Developer & Hardware designer
 
-### A Software Developer & Hardware Designer
+<img align="right" alt="GIF" src="code.gif" width="480" height="300" />
 
-* 🔬 **Interests:** RF, photonics, and quantum technologies.
-* 🔭 **Hardware:** Currently working on PCB design for embedded systems.
-* 💻 **Software:** Developing applications for desktop and mobile platforms.
-* 📫 **Reach Me:** You can find my email address directly on my GitHub profile.
+ - 🔬 I'm interested about RF, photonics & Quantum technologies.
 
+ - 🔭 I'm working on PCB design for Embedded systems.
+ 
+ - 💻 and also I'm Working on Software Developing for Desktop & Mobile.
+  
+ - 📫 How to reach me: you can find my email in my GitHub profile.
 <!--
 **AnotherMajid/AnotherMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
